@@ -1,4 +1,4 @@
 | Date | Coding Task | English Task | Comment |
 |:---:|:---:|:---:|:---:|
-||- [ ]|- [ ]|ika|
-||- [ ]|- [ ]|iris|
+|| - [ ] medium| - [ ] 50|ika|
+|| - [ ] medium| - [ ] 50|iris|
