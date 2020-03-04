@@ -1,3 +1,3 @@
-| Date | iris Coding Task | English Task | Comment | ika Coding Task | English Task | Comment |
+| Date | Iris Coding Task | English Task | Comment | Ika Coding Task | English Task | Comment |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 ||||||||
